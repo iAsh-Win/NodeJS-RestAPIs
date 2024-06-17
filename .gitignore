@@ -1,0 +1,51 @@
+# Dependency directories
+node_modules/
+
+# Environment variables file
+.env
+
+# Log files
+logs/
+*.log
+
+# Runtime data
+pids/
+*.pid
+*.seed
+*.pid.lock
+
+# Editor directories and files
+.idea/
+.vscode/
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Ignore npm debug log
+npm-debug.log*
+
+# Ignore yarn debug log
+yarn-debug.log*
+yarn-error.log*
+
+# Ignore coverage directory
+coverage/
+
+# Ignore .env.local file
+.env.local
+
+# Ignore .env.development.local and .env.test.local
+.env.development.local
+.env.test.local
+
+# Ignore .eslintcache
+.eslintcache
+
+# Ignore build output
+/build
+
+# Ignore any other build folders and files
+/build/
+
+# Ignore any other sensitive or non-essential files specific to your project
